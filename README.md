@@ -1,6 +1,8 @@
 
 ## This project is a prototype research portal UI
 
+author: rjgleave
+
 * It uses a template from Wrapbootstrap Angle
 Based on React JS
 
